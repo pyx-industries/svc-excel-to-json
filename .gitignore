@@ -18,7 +18,6 @@ __pycache__/
 *.pkg
 *.zip
 *.html
-*.txt
 
 # -----------------------------
 # Virtual environments
