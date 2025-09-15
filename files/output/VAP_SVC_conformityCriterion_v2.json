@@ -1,0 +1,501 @@
+[
+  {
+    "type": [
+      "Criterion"
+    ],
+    "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#A",
+    "name": "Labor",
+    "description": "Participants shall uphold fair labor practices, ensuring voluntary work, fair wages, reasonable hours, non-discrimination, and freedom of association, in compliance with the RBA Code of Conduct.",
+    "tag": [
+      "labor"
+    ],
+    "conformityTopic": "social.labour",
+    "subCriterion": [
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#A1",
+        "name": "Prohibition of Forced Labor",
+        "description": "Participants shall ensure that all work is voluntary, prohibiting forced, bonded, or involuntary prison labor, and ensuring workers are not required to pay fees or surrender identity documents.",
+        "tag": [
+          "labor"
+        ],
+        "conformityTopic": "social.labour",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#A2",
+        "name": "Young workers",
+        "description": "Participants shall not employ workers under the age of 15, except as permitted by law, and ensure young workers (15–18) are protected from hazardous work.",
+        "tag": [
+          "labor"
+        ],
+        "conformityTopic": "social.labour",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#A3",
+        "name": "Working Hours",
+        "description": "Participants shall ensure working hours do not exceed legal limits, with a maximum of 60 hours per week (including overtime) except in emergencies, and provide at least one day off per seven-day period.",
+        "tag": [
+          "labor"
+        ],
+        "conformityTopic": "social.labour",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#A4",
+        "name": "Wages and Benefits",
+        "description": "Participants shall pay workers at least the minimum wage, provide legally mandated benefits, and ensure timely and transparent wage payments.",
+        "tag": [
+          "labor"
+        ],
+        "conformityTopic": "social.labour",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#A5",
+        "name": "Non-Discrimination / Non-Harassment / Humane Treatment",
+        "description": "Participants shall ensure workplaces are free from discrimination, harassment, and inhumane treatment, promoting equality and respect.",
+        "tag": [
+          "labor"
+        ],
+        "conformityTopic": "social.rights",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#A6",
+        "name": "Freedom of Association and Collective Bargaining",
+        "description": "Participants shall respect workers’ rights to form and join trade unions and engage in collective bargaining, without interference or retaliation.",
+        "tag": [
+          "labor"
+        ],
+        "conformityTopic": "social.rights",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#A.M",
+        "name": "Labor Management System",
+        "description": "Participants shall implement a management system to ensure compliance with labor standards, including policies, training, and continuous improvement.",
+        "tag": [
+          "labor"
+        ],
+        "conformityTopic": "governance.compliance",
+        "subCriterion": []
+      }
+    ]
+  },
+  {
+    "type": [
+      "Criterion"
+    ],
+    "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#B",
+    "name": "Health and Safety",
+    "description": "Participants shall provide a safe and healthy workplace, implementing measures to prevent injuries, illnesses, and emergencies, and ensuring compliance with health and safety regulations.",
+    "tag": [
+      "health-and-safety"
+    ],
+    "conformityTopic": "social.safety",
+    "subCriterion": [
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#B1",
+        "name": "Occupational Health and Safety",
+        "description": "Participants shall ensure a safe and healthy work environment, identifying and controlling workplace hazards through risk assessments and appropriate controls.",
+        "tag": [
+          "health-and-safety"
+        ],
+        "conformityTopic": "social.safety",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#B2",
+        "name": "Emergency Preparedness",
+        "description": "Participants shall develop and maintain emergency preparedness plans to address potential workplace emergencies, including evacuation procedures and drills.",
+        "tag": [
+          "health-and-safety"
+        ],
+        "conformityTopic": "social.safety",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#B3",
+        "name": "Occupational Injury and Illness",
+        "description": "Participants shall establish procedures to prevent, manage, and address occupational injuries and illnesses, ensuring proper reporting and follow-up.",
+        "tag": [
+          "health-and-safety"
+        ],
+        "conformityTopic": "social.safety",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#B4",
+        "name": "Industrial Hygiene",
+        "description": "Participants shall protect workers from exposure to chemical, biological, and physical agents through monitoring and control measures.",
+        "tag": [
+          "health-and-safety"
+        ],
+        "conformityTopic": "social.safety",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#B5",
+        "name": "Physically Demanding Work",
+        "description": "Participants shall identify and mitigate risks associated with physically demanding tasks to protect worker health.",
+        "tag": [
+          "health-and-safety"
+        ],
+        "conformityTopic": "social.safety",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#B6",
+        "name": "Machine safeguarding",
+        "description": "Participants shall ensure machinery is properly guarded and maintained to prevent worker injuries.",
+        "tag": [
+          "health-and-safety"
+        ],
+        "conformityTopic": "social.safety",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#B7",
+        "name": "Food, Saniation and Housing",
+        "description": "Participants shall provide clean and safe food, sanitation, and housing facilities for workers, where applicable.",
+        "tag": [
+          "health-and-safety"
+        ],
+        "conformityTopic": "social.safety",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#B.M",
+        "name": "Health and Safety Management System",
+        "description": "Participants shall implement a management system to ensure compliance with health and safety standards, including risk management and continuous improvement.",
+        "tag": [
+          "health-and-safety"
+        ],
+        "conformityTopic": "governance.compliance",
+        "subCriterion": []
+      }
+    ]
+  },
+  {
+    "type": [
+      "Criterion"
+    ],
+    "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#C",
+    "name": "Environment",
+    "description": "Participants shall minimize environmental impact through compliance with regulations, effective management of resources, and reduction of emissions and waste.",
+    "tag": [
+      "environment"
+    ],
+    "conformityTopic": "environment.waste",
+    "subCriterion": [
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#C1",
+        "name": "Environmental Permits and Reporting",
+        "description": "Participants shall obtain, maintain, and keep current all required environmental permits and comply with reporting requirements.",
+        "tag": [
+          "environment"
+        ],
+        "conformityTopic": "governance.compliance",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#C2",
+        "name": "Hazardous Substances",
+        "description": "Participants shall identify, manage, and safely handle hazardous substances to prevent environmental and health risks.",
+        "tag": [
+          "environment"
+        ],
+        "conformityTopic": "environment.waste",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#C3",
+        "name": "Solid Waste",
+        "description": "Participants shall implement programs to minimize solid waste generation and ensure proper disposal or recycling.",
+        "tag": [
+          "environment"
+        ],
+        "conformityTopic": "environment.waste",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#C4",
+        "name": "Air Emissions",
+        "description": "Participants shall monitor and control air emissions to minimize environmental impact and comply with regulations.",
+        "tag": [
+          "environment"
+        ],
+        "conformityTopic": "environment.emissions",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#C5",
+        "name": "Water Management",
+        "description": "Participants shall implement programs to conserve water and prevent water pollution through effective management practices.",
+        "tag": [
+          "environment"
+        ],
+        "conformityTopic": "environment.water",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#C6",
+        "name": "Energy Consumption and Greenhouse Gas Emissions",
+        "description": "Participants shall track and reduce energy consumption and greenhouse gas emissions to minimize environmental impact.",
+        "tag": [
+          "environment"
+        ],
+        "conformityTopic": "environment.energy",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#C.M",
+        "name": "Environmental Management Systems",
+        "description": "Participants shall implement an environmental management system to ensure compliance with environmental standards and drive continuous improvement.",
+        "tag": [
+          "environment"
+        ],
+        "conformityTopic": "governance.compliance",
+        "subCriterion": []
+      }
+    ]
+  },
+  {
+    "type": [
+      "Criterion"
+    ],
+    "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#D",
+    "name": "Ethics",
+    "description": "Participants shall uphold the highest standards of business integrity, ensuring transparency, fairness, and protection of stakeholder rights in all operations.",
+    "tag": [
+      "ethics"
+    ],
+    "conformityTopic": "governance.ethics",
+    "subCriterion": [
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#D1",
+        "name": "Business Integrity and No Improper Advantage",
+        "description": "Participants shall maintain the highest standards of integrity, prohibiting bribery, corruption, or improper advantages in business dealings.",
+        "tag": [
+          "ethics"
+        ],
+        "conformityTopic": "governance.ethics",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#D2",
+        "name": "Disclosure of Information",
+        "description": "Participants shall ensure accurate and timely disclosure of business information, maintaining transparency with stakeholders.",
+        "tag": [
+          "ethics"
+        ],
+        "conformityTopic": "governance.transparency",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#D3",
+        "name": "Intellectual Property",
+        "description": "Participants shall respect intellectual property rights and implement safeguards to protect proprietary information.",
+        "tag": [
+          "ethics"
+        ],
+        "conformityTopic": "governance.ethics",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#D4",
+        "name": "Fair Business, Advertising and Competition",
+        "description": "Participants shall conduct business fairly, adhering to fair advertising and competition laws.",
+        "tag": [
+          "ethics"
+        ],
+        "conformityTopic": "governance.ethics",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#D5",
+        "name": "Protection of Identity and Non-Retaliation",
+        "description": "Participants shall protect the identity of whistleblowers and ensure no retaliation for reporting concerns.",
+        "tag": [
+          "ethics"
+        ],
+        "conformityTopic": "governance.ethics",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#D6",
+        "name": "Privacy",
+        "description": "Participants shall protect personal and sensitive information of workers and stakeholders, complying with privacy laws.",
+        "tag": [
+          "ethics"
+        ],
+        "conformityTopic": "governance.ethics",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#D.M",
+        "name": "Ethics Management System",
+        "description": "Participants shall implement an ethics management system to ensure compliance with ethical standards and promote integrity.",
+        "tag": [
+          "ethics"
+        ],
+        "conformityTopic": "governance.ethics",
+        "subCriterion": []
+      }
+    ]
+  },
+  {
+    "type": [
+      "Criterion"
+    ],
+    "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#E",
+    "name": "Suppy Chain Management",
+    "description": "Participants shall ensure responsible supply chain practices, including compliance with RBA standards, responsible sourcing, and supplier accountability.",
+    "tag": [
+      "supply-chain-management"
+    ],
+    "conformityTopic": "governance.compliance",
+    "subCriterion": [
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#E1",
+        "name": "Company Commitment",
+        "description": "Participants shall adopt and communicate a Code of Conduct aligned with RBA requirements, ensuring senior management support and compliance with laws.",
+        "tag": [
+          "supply-chain-management"
+        ],
+        "conformityTopic": "governance.compliance",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#E2",
+        "name": "Materials Restrictions",
+        "description": "Participants shall comply with material restrictions, including restrictions on hazardous substances in products and manufacturing processes.",
+        "tag": [
+          "supply-chain-management"
+        ],
+        "conformityTopic": "governance.compliance",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#E3",
+        "name": "Responsible Sourcing of Minerals",
+        "description": "Participants shall implement due diligence to ensure minerals are sourced responsibly, avoiding conflict-affected and high-risk areas.",
+        "tag": [
+          "supply-chain-management"
+        ],
+        "conformityTopic": "circularity.content",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://www.responsiblebusiness.org/media/docs/RBA_VAP_Standard_V8.0.2_April_2025.pdf#E4",
+        "name": "Supplier Responsibility",
+        "description": "Participants shall ensure suppliers comply with RBA standards through risk assessments, audits, and corrective actions.",
+        "tag": [
+          "supply-chain-management"
+        ],
+        "conformityTopic": "governance.compliance",
+        "subCriterion": []
+      }
+    ]
+  }
+]

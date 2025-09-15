@@ -1,0 +1,616 @@
+[
+  {
+    "type": [
+      "Criterion"
+    ],
+    "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#1",
+    "name": "Minerals Sourcing Information",
+    "description": "Information regarding how minerals are sourced",
+    "tag": [
+      "all"
+    ],
+    "conformityTopic": "governance.transparency",
+    "status": "active",
+    "subCriterion": [
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#CO-1",
+        "name": "CO-1",
+        "description": "New Question - How many countries of origin for primary materials, including mined materials, non-secondary metal products derived from mined materials, and/or intermediate material derived from non-secondary material?",
+        "tag": [
+          "all"
+        ],
+        "conformityTopic": "governance.transparency",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#ISM-1",
+        "name": "ISM-1",
+        "description": "New Question - How many supplying pinch-points in the supply chain of the facility? (Supplying pinch-points include smelters, refiners, processors)",
+        "tag": [
+          "all"
+        ],
+        "conformityTopic": "governance.transparency",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#SRM-1",
+        "name": "SRM-1",
+        "description": "New Question - How many countries of origin are used to source secondary material?",
+        "tag": [
+          "all"
+        ],
+        "conformityTopic": "governance.transparency",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#HR-1",
+        "name": "HR-1",
+        "description": "Does the facilty have any high-risk supply chains?",
+        "tag": [
+          "all"
+        ],
+        "conformityTopic": "governance.transparency",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#HR-2",
+        "name": "HR-2",
+        "description": "How many Red-flag suppliers and Conflict-Affected and High-Risk Areas and red flag(s) identified in the supply chain?",
+        "tag": [
+          "all"
+        ],
+        "conformityTopic": "governance.transparency",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#TU-1",
+        "name": "TU-1",
+        "description": "COBALT / GOLD / PRECIOUS METALS ONLY: How many Crude Refiners / Aggregators / Treatment Units have been assessed by the facility?",
+        "tag": [
+          "cobalt",
+          "gold-and-precious-metals"
+        ],
+        "conformityTopic": "governance.transparency",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#AM-1",
+        "name": "AM-1",
+        "description": "New Question - Has the facility determined if it sources minerals from ASM or not?",
+        "tag": [
+          "all"
+        ],
+        "conformityTopic": "governance.transparency",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#UP-1",
+        "name": "UP-1",
+        "description": "Is the facility engaged in any upstream mechanisms?",
+        "tag": [
+          "all"
+        ],
+        "conformityTopic": "governance.transparency",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#UP-1a",
+        "name": "UP-1a",
+        "description": "Please list all upstream mechanisms in which the company is engaged or participates or provides other forms of support.",
+        "tag": [
+          "all"
+        ],
+        "conformityTopic": "governance.transparency",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#UP-1b",
+        "name": "UP-1b",
+        "description": "Please list all upstream mechanisms in which the company is an active member (please provide proof such as a link to membership page).",
+        "tag": [
+          "all"
+        ],
+        "conformityTopic": "governance.transparency",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#UP-1c",
+        "name": "UP-1c",
+        "description": "Please list all upstream mechanisms from which the company has received shipments assured by that mechanism during the assessment period.",
+        "tag": [
+          "all"
+        ],
+        "conformityTopic": "governance.transparency",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#UP-2",
+        "name": "UP-2",
+        "description": "Is due diligence conducted using an upstream assurance mechanism for ALL materials sourced from CAHRAs?",
+        "tag": [
+          "all"
+        ],
+        "conformityTopic": "governance.transparency",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#UP-2a",
+        "name": "UP-2a",
+        "description": "Have all mechanisms been independently assessed and found aligned with OECD Guidance?",
+        "tag": [
+          "all"
+        ],
+        "conformityTopic": "governance.transparency",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#UP-2b",
+        "name": "UP-2b",
+        "description": "OECD Alignment Comments",
+        "tag": [
+          "all"
+        ],
+        "conformityTopic": "governance.transparency",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#UP-2c",
+        "name": "UP-2c",
+        "description": "Are all upstream assurance mechanisms recognized by RMI?",
+        "tag": [
+          "all"
+        ],
+        "conformityTopic": "governance.transparency",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#UP-2d",
+        "name": "UP-2d",
+        "description": "Comments for RMI Recognized assurance mechanisms",
+        "tag": [
+          "all"
+        ],
+        "conformityTopic": "governance.transparency",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#UP-2e",
+        "name": "UP-2e",
+        "description": "If not RMI recognized, have you provided proof that the upstream assurance mechanism is OECD aligned?",
+        "tag": [
+          "all"
+        ],
+        "conformityTopic": "governance.transparency",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#UP-2f",
+        "name": "UP-2f",
+        "description": "Please enter additional comments here. Note: if any mechanisms have been recognized by the EU or LME, provide link to website as proofpoint.",
+        "tag": [
+          "all"
+        ],
+        "conformityTopic": "governance.transparency",
+        "status": "active",
+        "subCriterion": []
+      }
+    ]
+  },
+  {
+    "type": [
+      "Criterion"
+    ],
+    "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#2",
+    "name": "Establish strong company management systems",
+    "description": "A sustainability scheme for establishing strong company management systems to ensure compliance with supply chain policies.",
+    "tag": [
+      "all",
+      "gold-and-precious-metals",
+      "cobalt"
+    ],
+    "conformityTopic": "governance.compliance",
+    "status": "active",
+    "subCriterion": [
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#A",
+        "name": "Adopt and publish a supply chain policy for covered minerals",
+        "description": "\nAdopt and publish a supply chain policy for covered minerals.",
+        "tag": [
+          "all",
+          "gold-and-precious-metals",
+          "cobalt"
+        ],
+        "conformityTopic": "governance.compliance",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#B",
+        "name": "Structure internal management to support supply chain due diligence",
+        "description": "Structure internal management to support supply chain due diligence.",
+        "tag": [
+          "all"
+        ],
+        "conformityTopic": "governance.compliance",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#C",
+        "name": "Establish a system of controls and transparency over the covered minerals supply chain",
+        "description": "Establish a system of controls and transparency over the covered minerals supply chain",
+        "tag": [
+          "all",
+          "gold-and-precious-metals",
+          "cobalt"
+        ],
+        "conformityTopic": "governance.compliance",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#D",
+        "name": "Strengthen company engagement with suppliers",
+        "description": "Strengthen company engagement with suppliers",
+        "tag": [
+          "all",
+          "gold-and-precious-metals",
+          "mica"
+        ],
+        "conformityTopic": "governance.ethics",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#E",
+        "name": "Establish company level grievance system",
+        "description": "Establish company level grievance system",
+        "tag": [
+          "all"
+        ],
+        "conformityTopic": "social.rights",
+        "status": "active",
+        "subCriterion": []
+      }
+    ]
+  },
+  {
+    "type": [
+      "Criterion"
+    ],
+    "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#3",
+    "name": "Identify and assess risks in the upstream supply chain",
+    "description": "Identify and assess risks in the upstream supply chain",
+    "tag": [
+      "all",
+      "cobalt",
+      "gold-and-precious-metals",
+      "mica"
+    ],
+    "conformityTopic": "governance.compliance",
+    "status": "active",
+    "subCriterion": [
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#A",
+        "name": "CAHRA Determination",
+        "description": "CAHRA Determination",
+        "tag": [
+          "all"
+        ],
+        "conformityTopic": "governance.compliance",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#B",
+        "name": "Red Flag Review and Risk Assessment Tailoring",
+        "description": "Red Flag Review and Risk Assessment Tailoring",
+        "tag": [
+          "all",
+          "gold-and-precious-metals",
+          "mica"
+        ],
+        "conformityTopic": "governance.compliance",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#C",
+        "name": "MINING OPERATIONS COBALT ONLY (LSM & ASM)",
+        "description": "MINING OPERATIONS COBALT ONLY (LSM & ASM) ",
+        "tag": [
+          "cobalt"
+        ],
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#D",
+        "name": "Applicability",
+        "description": "Map the factual circumstances of the facility’s supply chain(s), underway and planned (Where red flag review\nconfirms the need for Annex II risk assessment on covered minerals known or suspected to be from CAHRAs)",
+        "tag": [
+          "all",
+          "high-risk"
+        ],
+        "conformityTopic": "governance.compliance",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#E",
+        "name": "High Risk Sourcing",
+        "description": "High Risk Sourcing",
+        "tag": [
+          "all",
+          "cobalt",
+          "gold-and-precious-metals",
+          "high-risk"
+        ],
+        "conformityTopic": "governance.compliance",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#F",
+        "name": "Specific Assessment of Due Diligence Practices and Qualitative Conditions",
+        "description": "Specific Assessment of Due Diligence Practices and Qualitative Conditions",
+        "tag": [
+          "cobalt",
+          "high-risk"
+        ],
+        "conformityTopic": "governance.compliance",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#G",
+        "name": "Community Participation - COBALT ONLY",
+        "description": "Community Participation - COBALT ONLY",
+        "tag": [
+          "cobalt",
+          "high-risk"
+        ],
+        "conformityTopic": "social.community",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#H",
+        "name": "Upstream Assurance Mechanisms",
+        "description": "Upstream Assurance Mechanisms",
+        "tag": [
+          "all",
+          "high-risk"
+        ],
+        "conformityTopic": "governance.compliance",
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#I",
+        "name": "Risk Assessment for High Risk Sourcing",
+        "description": "Assess risks in the supply chain (Where red flag review confirms the need for Annex II risk assessment for covered",
+        "tag": [
+          "all",
+          "mica",
+          "high-risk"
+        ],
+        "conformityTopic": "governance.compliance",
+        "status": "active",
+        "subCriterion": []
+      }
+    ]
+  },
+  {
+    "type": [
+      "Criterion"
+    ],
+    "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#4",
+    "name": "Design and implement a strategy to respond to identified risks",
+    "description": "Design and implement a strategy to respond to identified risks",
+    "tag": [
+      "all",
+      "mica"
+    ],
+    "status": "active",
+    "subCriterion": [
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#A",
+        "name": "Report findings to designated senior management",
+        "description": "Report findings to designated senior management",
+        "tag": [
+          "all"
+        ],
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#B",
+        "name": "Devise and adopt a risk management plan",
+        "description": "Devise and adopt a risk management plan",
+        "tag": [
+          "all",
+          "high-risk"
+        ],
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#C",
+        "name": "Implement the risk management plan",
+        "description": "Implement the risk management plan",
+        "tag": [
+          "all",
+          "mica",
+          "high-risk"
+        ],
+        "status": "active",
+        "subCriterion": []
+      }
+    ]
+  },
+  {
+    "type": [
+      "Criterion"
+    ],
+    "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#5",
+    "name": "Report annually on supply chain due diligence",
+    "description": "Report annually on supply chain due diligence",
+    "tag": [
+      "all",
+      "mica"
+    ],
+    "status": "active",
+    "subCriterion": [
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#A",
+        "name": "Report",
+        "description": "Report",
+        "tag": [
+          "all"
+        ],
+        "status": "active",
+        "subCriterion": []
+      },
+      {
+        "type": [
+          "Criterion"
+        ],
+        "id": "https://responsiblemineralsinitiative.org/standards/rmap/all-minerals/v1.1#B",
+        "name": "Report (High Risk Questions)",
+        "description": "Report (High Risk Questions)",
+        "tag": [
+          "mica",
+          "high-risk"
+        ],
+        "status": "active",
+        "subCriterion": []
+      }
+    ]
+  }
+]

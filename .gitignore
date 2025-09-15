@@ -1,0 +1,45 @@
+# -----------------------------
+# Python
+# -----------------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# -----------------------------
+# Build / Distribution (PyInstaller)
+# -----------------------------
+/build/
+/dist/
+/code/*.spec
+*.toc
+*.pyz
+*.pkg
+*.zip
+*.html
+*.txt
+
+# -----------------------------
+# Virtual environments
+# -----------------------------
+.venv/
+env/
+venv/
+
+# -----------------------------
+# OS / Editor junk
+# -----------------------------
+.DS_Store
+Thumbs.db
+*.log
+
+# -----------------------------
+# Project-specific ignores
+# -----------------------------
+
+# Test & output JSON files
+/files/archive/
+
+# Windows alternate data streams
+*.Zone.Identifier
